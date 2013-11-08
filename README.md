@@ -30,16 +30,16 @@ Go to /apps to see the list of apps that were successfully installed.
 
 An example directory structure would look like this
 
-/sites
-|
-+ - config.ru
-|
-+ - /app1
-| |
-| + - app.rb
-|
-+ - /app2
-  |
-  + - app.rb
+    /sites
+    |
+    + - config.ru
+    |
+    + - /app1
+    | |
+    | + - app.rb
+    |
+    + - /app2
+      |
+      + - app.rb
   
 If you're having issues, let me know. I'll see if I can help.
