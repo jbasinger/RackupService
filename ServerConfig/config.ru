@@ -29,7 +29,7 @@ class AllMyAppsAdapter
 		content = "
 		<html>
 			<head>
-				<title>My ThinServer Apps</title>
+				<title>My RackupServer Apps</title>
 			</head>
 			<body>
 				<h1>Here are my apps:</h1>
